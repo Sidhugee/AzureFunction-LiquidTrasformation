@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC-Compare-AzureFunction", "POC-Compare-AzureFunction\POC-Compare-AzureFunction.csproj", "{23E425B2-7921-49A6-8FDB-A715B822BD1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E425B2-7921-49A6-8FDB-A715B822BD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E425B2-7921-49A6-8FDB-A715B822BD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E425B2-7921-49A6-8FDB-A715B822BD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E425B2-7921-49A6-8FDB-A715B822BD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B294054F-0658-455E-B467-933A6C668C73}
+	EndGlobalSection
+EndGlobal
